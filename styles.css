@@ -1,0 +1,11 @@
+body {
+  background-color: grey;
+}
+
+.app {
+  margin: 10px;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 10px;
+}
